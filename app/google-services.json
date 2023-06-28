@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346934950927",
+    "project_id": "cyberpigeon-7682c",
+    "storage_bucket": "cyberpigeon-7682c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346934950927:android:6a0fbb23af6f3d1bf0777a",
+        "android_client_info": {
+          "package_name": "com.example.cyberpigeon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346934950927-k7ot0ck9dvd1mpl9r64ge2hph4up91mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxerVZ5aYkPyhNHO-KaXubmV6d2_4i8vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346934950927-k7ot0ck9dvd1mpl9r64ge2hph4up91mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
